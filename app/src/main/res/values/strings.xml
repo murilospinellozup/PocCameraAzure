@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">PocCameraAzure</string>
+	<string name="url_azure">https://brazilsouth.api.cognitive.microsoft.com/face/v1.0/</string>
+</resources>
